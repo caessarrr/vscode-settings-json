@@ -1,0 +1,25 @@
+{
+    "window.titleBarStyle": "custom",
+    "files.autoSave": "afterDelay",
+    "editor.formatOnSave": true,
+    "[html]": {
+        "editor.defaultFormatter": "vscode.html-language-features"
+    },
+    "html.format.indentInnerHtml": true,
+    "html.format.wrapLineLength": 120,
+    "html.format.unformatted": "b,em,i,span,strong,sub,sup,code,pre",
+    "html.format.contentUnformatted": "pre,code",
+    "html.format.indentHandlebars": true,
+    "html.format.preserveNewLines": true,
+    "editor.minimap.enabled": false,
+    "workbench.activityBar.location": "hidden",
+    "window.customTitleBarVisibility": "auto",
+    "workbench.colorTheme": "Material One Dark",
+    "workbench.editor.showTabs": "none",
+    "editor.stickyScroll.enabled": false,
+    "breadcrumbs.enabled": false,
+    "workbench.editor.enablePreview": false,
+    "window.menuBarVisibility": "compact",
+    "workbench.editor.editorActionsLocation": "hidden",
+    "window.commandCenter": true
+}
